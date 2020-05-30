@@ -5,7 +5,7 @@ const port = 3000
 const response = {
   author: 'Nam Phuong',
   message: 'Hello World!',
-  version: 'v1.0'
+  version: 'v1.1'
 }
 app.get('/', (req, res) => res.send(response))
 
