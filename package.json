@@ -1,0 +1,23 @@
+{
+  "name": "gl-cicd-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skynetcmg47/gl-cicd-demo.git"
+  },
+  "author": "Nam Phuong <skynetcmg47@gmail.com> (https://github.com/skynetcmg47)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skynetcmg47/gl-cicd-demo/issues"
+  },
+  "homepage": "https://github.com/skynetcmg47/gl-cicd-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
