@@ -3,6 +3,7 @@ const app = express()
 const port = 3000
 
 const response = {
+  author: 'Nam Phuong',
   message: 'Hello World!'
 }
 app.get('/', (req, res) => res.send(response))
